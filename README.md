@@ -2,4 +2,4 @@
 
 Личная страница
 
-[Страница](kanadeiar.github.io)
+[Страница](https://kanadeiar.github.io/)

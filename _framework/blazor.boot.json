@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "kanadeiar.dll": "sha256-Fjf0CT3X2TtMXZUNQi+0oQt7fex0Zgpu3Lyk5B\/hBt8=",
+      "kanadeiar.dll": "sha256-c1pv\/hMJPNhYsyyyw+nvUNLd24WnI7tZ2+Z\/dX+CzY4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-G9UzI11Ygage3LGW0KK7GUHdxolCsv4Nk3ttk\/VWovg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-4uR\/ZmF\/RZ73Mo8mWlSwHKdQdxP8\/fE3yxM4H9rMitc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-OfawION\/UfFO75U4pMPDVhHt71EbKuF3qxDeiPFGqKo=",

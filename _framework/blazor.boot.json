@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "kanadeiar.dll": "sha256-uh1ZgTxm9aq1CGRD13N5vDhfF4DHAVOEpArFnNKUQLw=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-Iwg8XuYEj32PIev1AAQns4NMGflT8FwZMVCRPK+61wI=",
+      "kanadeiar.dll": "sha256-pMkju2+6S1cwDoOD3qRdYtamQ1Z3dweiyGOBPbc8ogo=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-G5BIJTUp3SF5hLV\/kiohpP+VATBXJUtMOy\/TWRucFTQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-4uR\/ZmF\/RZ73Mo8mWlSwHKdQdxP8\/fE3yxM4H9rMitc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-OfawION\/UfFO75U4pMPDVhHt71EbKuF3qxDeiPFGqKo=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",

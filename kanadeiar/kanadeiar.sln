@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanadeiar", "kanadeiar.csproj", "{B4FC5B8E-4604-44A7-98AB-17EBFDDABBAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kanadeiar", "kanadeiar.csproj", "{B4FC5B8E-4604-44A7-98AB-17EBFDDABBAC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{C7D061F6-7B8F-4567-B256-1BC0760EC8D9}"
 	ProjectSection(SolutionItems) = preProject

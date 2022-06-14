@@ -18,10 +18,12 @@
 
 <body>
     <header class="sticky-top">
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom mb-4">
-            <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg navbar-toggleable-lg navbar-dark bg-success mb-4">
+            <div class="container">
                 <a class="navbar-brand" href="/">
                     <img src="favicon.png" alt="Бренд" width="30" height="30" class="d-inline-block align-text-top">
+                </a>
+                <a class="navbar-brand" href="/">
                     Личная страница
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -31,41 +33,43 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="technologies.html">Технологии</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" href="portfolio.html">Портфолио</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownInfo" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Мои
+                            </a>
+                            <ul class="dropdown-menu bg-success" aria-labelledby="navbarDropdownInfo">
+                                <li class="dropdown-item">
+                                    <a class="nav-link active" href="technologies.html">Технологии</a>
+                                </li>
+                                <li class="dropdown-item">
+                                    <a class="nav-link active" href="portfolio.html">Портфолио</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
-
                 </div>
             </div>
         </nav>
     </header>
 
     <main>
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="my-2 p-2">Рассахатский Андрей Викторович</h1>
-                    <h3 class="my-2 p-2">Разработчик C#</h3>
-
-
-
-
-
-
-
+                    <div class="border-1 shadow rounded bg-light p-3 mb-3">
+                        <h1 class="my-2">Рассахатский Андрей Викторович</h1>
+                        <h3 class="my-2">Разработчик C#</h3>
+                    </div>
                 </div>
             </div>
         </div>
     </main>
 
-    <footer class="border-top footer text-muted bg-dark">
-        <div class="container-fluid">
-            &copy; 2022 - kanadeiar <a class="text-light" target="_blank"
-                href="https://github.com/kanadeiar/kanadeiar.github.io">github</a>
+    <footer class="border-top footer text-muted bg-success">
+        <div class="container text-white">
+            &copy; 2022 - <a class="text-white" target="_blank"
+                href="https://github.com/kanadeiar/kanadeiar.github.io">kanadeiar github</a>
         </div>
     </footer>
 
